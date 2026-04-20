@@ -1,0 +1,4 @@
+id,nome,status,data_criacao,deadline_tarefa,ciclo_atual,notas_extra,proxima_cobranca
+1,joão,Ciclo Completo,2026-04-20 01:39:02.383716,2026-05-20 01:39:02.383716,4,,2026-05-20 00:00:00.000000
+2,gustavo,Aguardando Ciclo,2026-04-20 01:39:39.799873,2026-04-24 01:39:39.799873,0,,2026-05-20 00:00:00.000000
+3,pedro,Aguardando Ciclo,2026-04-20 01:57:28.511129,2026-04-24 01:57:28.511129,0,,2026-05-20 01:57:28.511129
